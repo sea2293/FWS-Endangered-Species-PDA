@@ -14,37 +14,36 @@ The focus of this project is the Global mass exctinction crisis and species list
 
 
 Who or what is affected by this problem?
-Everyone
-Ecosystems
-Industries and financial markets
+- Everyone,
+- Ecosystems,
+- Industries and financial markets
 
 Why is solving this problem a priority?
-Financial cost/value of provided services
-Protection of ecosystem services
-Protection from our own extinction
+- Financial cost/value of provided services,
+- Protection of ecosystem services,
+- Protection from our own extinction
 	
 What other groups/stakeholders need to be involved in scoping and implementing this project?
-Policy makers
-Corporations (corporate accountability)
-consumers
+- Policy makers,
+- Corporations (corporate accountability),
+- Consumers
 
 Goals:
-Highlight discrepancies between highly - funded and less-funded/non-funded species (equity)
-Highlight need for ESA funding (effectiveness)
-Highlight the cost of extinction (efficiency)
+- Highlight discrepancies between highly - funded and less-funded/non-funded species (equity),
+- Highlight need for ESA funding (effectiveness),
+- Highlight the cost of extinction (efficiency)
 
-Actions:
-EDA of categorical variables (group, listing status, )
-Look at distributions
-EDA of numerical variables (compare fws / total spending per group, compare  fws / total spending between top funded and least funded. 
-Do the top funded have anything in common?
-Other ideas: 
-maybe highlight how many species are petitioned/ how long they have been on waiting list
-How many years has (subset of species) been listed? (effectiveness of listing/protection) 
 Data analysis:
-What is the estimated cost of ecosystem services? 
-Is there a correlation between species budget and recovery plans?
-Correlation between budget and number of recovery actions?
+- EDA of categorical variables (group, listing status, )
+- Look at distributions
+- EDA of numerical variables (compare fws / total spending per group, compare  fws / total spending between top funded and least funded. 
+- Do the top funded have anything in common?
+- Is there a correlation between species budget and recovery plans?
+- Correlation between budget and number of recovery actions?
+
+Future ideas: 
+- Highlight how many species are petitioned/ how long they have been on waiting list,
+- How many years has (subset of species) been listed? (effectiveness of listing/protection) 
 
 Citations:
 
